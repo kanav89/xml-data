@@ -3,8 +3,8 @@
   <!-- Example from Figure 1 -->
   <Hotel Rating="4.2">
     <Name>Westin</Name>
-    <Phone>8009378461</Phone>
-    <Phone>4809688885</Phone>
+    <Phone>800-937-8461</Phone>
+    <Phone>480-968-8885</Phone>
     <Address NearestAirport="Sky Harbor">
       <Number>11</Number>
       <Street>E.7th St</Street>
@@ -17,7 +17,7 @@
   <!-- Additional 10 real hotels -->
   <Hotel Rating="5">
     <Name>Ritz-Carlton New York</Name>
-    <Phone>2123087100</Phone>
+    <Phone>212-308-7100</Phone>
     <Address NearestAirport="JFK">
       <Number>50</Number>
       <Street>Central Park South</Street>
@@ -29,8 +29,8 @@
   
   <Hotel Rating="4">
     <Name>Marriott Marquis</Name>
-    <Phone>4159966000</Phone>
-    <Phone>4159967000</Phone>
+    <Phone>415-996-6000</Phone>
+    <Phone>415-996-7000</Phone>
     <Address NearestAirport="SFO">
       <Number>780</Number>
       <Street>Mission Street</Street>
@@ -42,7 +42,7 @@
   
   <Hotel>
     <Name>Hilton Chicago</Name>
-    <Phone>3129224400</Phone>
+    <Phone>312-922-4400</Phone>
     <Address>
       <Number>720</Number>
       <Street>South Michigan Avenue</Street>
@@ -54,7 +54,7 @@
   
   <Hotel Rating="3">
     <Name>Holiday Inn Express Boston</Name>
-    <Phone>6177275550</Phone>
+    <Phone>617-727-5550</Phone>
     <Address NearestAirport="Logan">
       <Number>280</Number>
       <Street>Friend Street</Street>
@@ -66,8 +66,8 @@
   
   <Hotel Rating="5">
     <Name>Bellagio Las Vegas</Name>
-    <Phone>7026937111</Phone>
-    <Phone>8889876543</Phone>
+    <Phone>702-693-7111</Phone>
+    <Phone>888-987-6543</Phone>
     <Address NearestAirport="McCarran">
       <Number>3600</Number>
       <Street>South Las Vegas Boulevard</Street>
@@ -79,7 +79,7 @@
   
   <Hotel Rating="4">
     <Name>Hyatt Regencyn</Name>
-    <Phone>5124771234</Phone>
+    <Phone>512-477-1234</Phone>
     <Address NearestAirport="Austin-Bergstrom">
       <Number>208</Number>
       <Street>Barton Springs Road</Street>
@@ -91,7 +91,7 @@
   
   <Hotel>
     <Name>Sheraton</Name>
-    <Phone>2066219000</Phone>
+    <Phone>206-621-9000</Phone>
     <Address NearestAirport="Sea-Tac">
       <Number>1400</Number>
       <Street>6th Avenue</Street>
@@ -103,8 +103,8 @@
   
   <Hotel Rating="3">
     <Name>Embassy Suites</Name>
-    <Phone>4073458250</Phone>
-    <Phone>8003627253</Phone>
+    <Phone>407-345-8250</Phone>
+    <Phone>800-362-7253</Phone>
     <Address>
       <Number>8100</Number>
       <Street>Lake Street</Street>
@@ -116,7 +116,7 @@
   
   <Hotel Rating="5">
     <Name>Four Seasons</Name>
-    <Phone>2154197000</Phone>
+    <Phone>215-419-7000</Phone>
     <Address>
       <Number>1</Number>
       <Street>North 19th Street</Street>
@@ -128,8 +128,8 @@
   
   <Hotel Rating="4">
     <Name>MGM Grand</Name>
-    <Phone>8776888888</Phone>
-    <Phone>3138778888</Phone>
+    <Phone>877-688-8888</Phone>
+    <Phone>313-877-8888</Phone>
     <Address>
       <Number>1777</Number>
       <Street>Third Street</Street>
