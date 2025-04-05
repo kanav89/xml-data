@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotels>
+  <!-- Example from Figure 1 -->
+  <Hotel Rating="4.2">
+    <Name>Westin</Name>
+    <Phone>8009378461</Phone>
+    <Phone>4809688885</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>11</Number>
+      <Street>E.7th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+  
+  <!-- Additional 10 real hotels -->
+  <Hotel Rating="5">
+    <Name>Ritz-Carlton New York</Name>
+    <Phone>2123087100</Phone>
+    <Address NearestAirport="JFK">
+      <Number>50</Number>
+      <Street>Central Park South</Street>
+      <City>New York</City>
+      <State>NY</State>
+      <Zip>10019</Zip>
+    </Address>
+  </Hotel>
+  
+  <Hotel Rating="4">
+    <Name>Marriott Marquis</Name>
+    <Phone>4159966000</Phone>
+    <Phone>4159967000</Phone>
+    <Address NearestAirport="SFO">
+      <Number>780</Number>
+      <Street>Mission Street</Street>
+      <City>San Francisco</City>
+      <State>CA</State>
+      <Zip>94103</Zip>
+    </Address>
+  </Hotel>
+  
+  <Hotel>
+    <Name>Hilton Chicago</Name>
+    <Phone>3129224400</Phone>
+    <Address>
+      <Number>720</Number>
+      <Street>South Michigan Avenue</Street>
+      <City>Chicago</City>
+      <State>IL</State>
+      <Zip>60605</Zip>
+    </Address>
+  </Hotel>
+  
+  <Hotel Rating="3">
+    <Name>Holiday Inn Express Boston</Name>
+    <Phone>6177275550</Phone>
+    <Address NearestAirport="Logan">
+      <Number>280</Number>
+      <Street>Friend Street</Street>
+      <City>Boston</City>
+      <State>MA</State>
+      <Zip>02114</Zip>
+    </Address>
+  </Hotel>
+  
+  <Hotel Rating="5">
+    <Name>Bellagio Las Vegas</Name>
+    <Phone>7026937111</Phone>
+    <Phone>8889876543</Phone>
+    <Address NearestAirport="McCarran">
+      <Number>3600</Number>
+      <Street>South Las Vegas Boulevard</Street>
+      <City>Las Vegas</City>
+      <State>NV</State>
+      <Zip>89109</Zip>
+    </Address>
+  </Hotel>
+  
+  <Hotel Rating="4">
+    <Name>Hyatt Regencyn</Name>
+    <Phone>5124771234</Phone>
+    <Address NearestAirport="Austin-Bergstrom">
+      <Number>208</Number>
+      <Street>Barton Springs Road</Street>
+      <City>Austin</City>
+      <State>TX</State>
+      <Zip>78704</Zip>
+    </Address>
+  </Hotel>
+  
+  <Hotel>
+    <Name>Sheraton</Name>
+    <Phone>2066219000</Phone>
+    <Address NearestAirport="Sea-Tac">
+      <Number>1400</Number>
+      <Street>6th Avenue</Street>
+      <City>Seattle</City>
+      <State>WA</State>
+      <Zip>98101</Zip>
+    </Address>
+  </Hotel>
+  
+  <Hotel Rating="3">
+    <Name>Embassy Suites</Name>
+    <Phone>4073458250</Phone>
+    <Phone>8003627253</Phone>
+    <Address>
+      <Number>8100</Number>
+      <Street>Lake Street</Street>
+      <City>Orlando</City>
+      <State>FL</State>
+      <Zip>32836</Zip>
+    </Address>
+  </Hotel>
+  
+  <Hotel Rating="5">
+    <Name>Four Seasons</Name>
+    <Phone>2154197000</Phone>
+    <Address>
+      <Number>1</Number>
+      <Street>North 19th Street</Street>
+      <City>Philadelphia</City>
+      <State>PA</State>
+      <Zip>19103</Zip>
+    </Address>
+  </Hotel>
+  
+  <Hotel Rating="4">
+    <Name>MGM Grand</Name>
+    <Phone>8776888888</Phone>
+    <Phone>3138778888</Phone>
+    <Address>
+      <Number>1777</Number>
+      <Street>Third Street</Street>
+      <City>Detroit</City>
+      <State>MI</State>
+      <Zip>48226</Zip>
+    </Address>
+  </Hotel>
+</Hotels>
